@@ -1,5 +1,4 @@
 C:\Users\tecsistem\Documents\curso programação\projeto_teste\HelloWord\HelloWord\obj\Debug\HelloWord.csproj.AssemblyReference.cache
-C:\Users\tecsistem\Documents\curso programação\projeto_teste\HelloWord\HelloWord\obj\Debug\HelloWord.Form1.resources
 C:\Users\tecsistem\Documents\curso programação\projeto_teste\HelloWord\HelloWord\obj\Debug\HelloWord.Properties.Resources.resources
 C:\Users\tecsistem\Documents\curso programação\projeto_teste\HelloWord\HelloWord\obj\Debug\HelloWord.csproj.GenerateResource.cache
 C:\Users\tecsistem\Documents\curso programação\projeto_teste\HelloWord\HelloWord\obj\Debug\HelloWord.csproj.CoreCompileInputs.cache
@@ -8,3 +7,4 @@ C:\Users\tecsistem\Documents\curso programação\projeto_teste\HelloWord\HelloWo
 C:\Users\tecsistem\Documents\curso programação\projeto_teste\HelloWord\HelloWord\bin\Debug\HelloWord.pdb
 C:\Users\tecsistem\Documents\curso programação\projeto_teste\HelloWord\HelloWord\obj\Debug\HelloWord.exe
 C:\Users\tecsistem\Documents\curso programação\projeto_teste\HelloWord\HelloWord\obj\Debug\HelloWord.pdb
+C:\Users\tecsistem\Documents\curso programação\projeto_teste\HelloWord\HelloWord\obj\Debug\HelloWord.FormPrincipal.resources
